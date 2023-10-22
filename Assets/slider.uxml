@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI.uss?fileID=7433441132597879392&amp;guid=daea2e14fd728374583357d7a0ec8f45&amp;type=3#UI" />
+    <ui:Slider picking-mode="Ignore" label="Slider" value="42" high-value="100" show-input-field="true" direction="Horizontal" style="align-items: flex-start; flex-direction: column; align-self: center; width: 256px;" />
+</ui:UXML>
